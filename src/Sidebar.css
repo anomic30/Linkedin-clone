@@ -21,7 +21,6 @@
     border-top-right-radius: 10px;
     background-color: white;
     padding-bottom: 10px;
-    width: 200px;
 }
 
 .sidebar__top > h4{
@@ -103,4 +102,9 @@
 .sidebar__hash{
     margin-left: 5px;
     margin-right: 10px;
+}
+
+.sidebar__bottom > p{
+    font-size: 13px;
+    padding: 10px;
 }
