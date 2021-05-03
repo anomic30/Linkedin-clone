@@ -12,7 +12,7 @@ function Header() {
     return (
         <div className="header">
             <div className="header__left">
-                <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="" />
+                <img src="https://img.icons8.com/fluent/96/000000/linkedin.png" alt="" />
                 <div className="header__search">
                     <SearchIcon />
                     <input type="text" />
@@ -31,3 +31,6 @@ function Header() {
 }
 
 export default Header
+
+//https://img.icons8.com/color/96/4a90e2/linkedin-circled--v4.png
+//https://img.icons8.com/fluent/96/000000/linkedin.png
