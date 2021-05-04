@@ -15,7 +15,7 @@ function Sidebar() {
         <div className="sidebar">
             <div className="sidebar__top">
                 <img src="https://www.geeklawblog.com/wp-content/uploads/sites/528/2018/12/liprofile-656x369.png" alt="" />
-                <Avatar className="sidebar__avatar" src="https://lh3.googleusercontent.com/proxy/gejixP95x5K9MR6RIIkYXCV5EFUaIp_l555BI8CXQwyrbTCZkd-oC5I-8WITgbEGXVI6uY8NA8LYfkq2gG4aXkm3pc-l_DSbu25gsKxOgbs"/>
+                <Avatar className="sidebar__avatar" src="https://i.pinimg.com/736x/89/90/48/899048ab0cc455154006fdb9676964b3.jpg"/>
                 <h2>Anom Chakravorty</h2>
                 <h4>anom3008@gmail.com</h4>
             </div>
