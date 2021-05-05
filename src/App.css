@@ -6,5 +6,9 @@
 }
 .app__body{
     display: flex;
-    justify-content: flex-start;
+    margin-top: 35px;
+    /* max-width: 120px;
+    margin-left: 20px;
+    margin-right: 20px; */
+    min-width: 120px;
 }
