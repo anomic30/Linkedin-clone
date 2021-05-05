@@ -6,7 +6,7 @@
     border-radius: 10px;
     border: 1px solid lightgrey;
     height: fit-content;
-    padding-bottom: 10px;
+    padding-bottom: 6px;
 }
 
 .widgets__header{
@@ -19,4 +19,39 @@
 .widgets__header > h2{
     font-size: 16px;
     font-weight: 400;
+}
+
+.widgets__articleLeft{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    padding: 6px;
+}
+
+.widgets__article{
+    display: flex;
+    flex-direction: column;
+    padding: 6px;
+    cursor: pointer;
+}
+
+.separate:hover{
+    background-color: whitesmoke;
+    border-radius: 10px;
+}
+
+.widgets__articleLeft > .MuiSvgIcon-root{
+    font-size: 10px;
+    color: grey;
+}
+
+.separate{
+    display: flex;
+    gap: 10px;
+}
+
+.widgets__articleRight > p{
+    color: grey;
+    font-size: 14px;
+    flex: 1;
 }
